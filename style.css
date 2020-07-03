@@ -34,6 +34,26 @@ section{
   overflow: hidden;
 }
 
+.logo {
+  font-size: 19px;
+  font-weight: 900;
+  line-height: 23px;
+  letter-spacing: 0.6px;
+  margin: 22px 20px;
+  display: inline-block;
+  position: absolute;
+  text-decoration: none;
+  left: 10%;
+}
+
+.first-logo {
+  color: var(--primary-color);
+}
+
+.second-logo {
+  color: var(--secondary-color);
+}
+
 img{
   width: 100%;
   max-width: 100%;
